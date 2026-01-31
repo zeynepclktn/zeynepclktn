@@ -12,6 +12,7 @@ Hello there! 👋 I'm Zeynep Celikten, a passionate software engineering with a 
 
 
 ---
+![LeetCode Stats](https://leetcard.jacoblin.cool/zeynepclktn?theme=radical&font=Kanit&ext=activity)
 [![](https://visitcount.itsvg.in/api?id=zeynepclk&icon=7&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
